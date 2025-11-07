@@ -1,0 +1,2 @@
+foo:x:1001:1001::/home/foo:/bin/sh
+bar:x:998:998::/home/bar:/bin/sh
