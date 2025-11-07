@@ -1,0 +1,1 @@
+Task 4 Cleanup Complete: Users foo, bar, group baz, and /etc/skel/hello.txt removed.
