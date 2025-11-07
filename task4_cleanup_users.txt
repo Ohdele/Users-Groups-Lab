@@ -1,0 +1,1 @@
+Task 4 Cleanup Complete: User 'foo' and /etc/skel/hello.txt removed.
