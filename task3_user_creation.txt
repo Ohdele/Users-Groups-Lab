@@ -1,0 +1,1 @@
+User 'foo' created and password set for Task 3.
